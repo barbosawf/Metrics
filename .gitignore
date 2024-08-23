@@ -1,0 +1,10 @@
+.Rproj.user
+Data/
+A01_Useful_Functions/
+A02/
+Reports/
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+.quarto
